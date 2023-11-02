@@ -24,7 +24,7 @@
   --------
   No usage instructions needed.
 
-![](https://github.com/eymerin/README-Generator/blob/main/README%20Generator%20demo.gif)
+![]([https://github.com/eymerin/README-Generator/blob/main/README%20Generator%20demo.gif](https://github.com/eymerin/SVG-Logo-Generator/blob/main/examples/Demo%20Video.gif))
 
   ## Contribution
   ---------------
